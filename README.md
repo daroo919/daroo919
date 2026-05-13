@@ -10,4 +10,5 @@
 
 ### 🌇 "Waiting for the next train..."
 
+### `I like Miku, code, and you!`
 </div>

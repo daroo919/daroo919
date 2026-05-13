@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/daroo919/daroo919/main/station.png" width="100%" />
 
 <div align="center">
-## 🌇 "Waiting for the next train..."
+ 🌇 "Waiting for the next train..."
 
 # 🌆 daroo919
 

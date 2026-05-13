@@ -8,12 +8,6 @@
 
 ### `station server operator`
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C792EA&center=true&vCenter=true&width=435&lines=Welcome+to+my+station..." />
-
-<br><br>
-
 ### 🌇 "Waiting for the next train..."
 
 </div>

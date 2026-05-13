@@ -16,11 +16,4 @@
 
 <br>
 
-```txt
-STATUS  : ONLINE
-SERVER  : STABLE
-STATION : anjduTwl
-TIME    : sunset
-```
-
 </div>

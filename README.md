@@ -5,7 +5,7 @@
 
 # 🌆 daroo919
 
-<img src="https://raw.githubusercontent.com/daroo919/daroo919/main/miku.png" width="200px" />
+<img src="https://raw.githubusercontent.com/daroo919/daroo919/main/miku.png" width="300px" />
 
 ### `station server operator`
 

@@ -9,5 +9,5 @@
 
 ### `station server operator`
 
-### `I like Miku, code, and you!`
+### `I love Miku, code, and you!`
 </div>
